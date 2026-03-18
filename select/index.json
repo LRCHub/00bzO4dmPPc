@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "デバッグドラッグ feat. 重音テト / \"Debug Drug\" ft. Kasane Teto",
+  "base_artist": "ルシノ",
+  "createdAt": "2026-03-18T15:46:47.191890Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "デバッグドラッグ",
+      "artist": "ルシノ",
+      "has_synced": false,
+      "path": "select/pl_01_デバッグドラッグ_ルシノ.txt"
+    }
+  ]
+}
